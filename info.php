@@ -1,4 +1,5 @@
 <?php
+//git test
 class info{
 	protected $weeks = array();
 	protected $timeStamp;
